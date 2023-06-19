@@ -1,0 +1,54 @@
+.title{
+  font-size: 30px;
+  /* text-transform: uppercase; */
+  color: #922675;
+  /* letter-spacing: 5px; */
+  font-weight: 700;
+}
+.sub-title{
+  color: #808080c2;
+  font-size: 14px;
+}
+.bg-color{
+  background-color: #FAF8F8;
+}
+.color-div{
+  font-size: 14px;
+  color: blue;
+}
+
+#dialog {
+  border: solid 1px #ccc;
+  padding: 20px 30px;
+  box-shadow: 0 0 4px #ccc;
+  background-color: #FAF8F8;
+  overflow: hidden;
+}
+.rememberMe{
+  height: 18px;
+  width: 20px;
+  margin-top: 4px;
+}
+button, .btn:hover {
+  background-color: #922675;
+  color: azure;
+  padding: 8px 15px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.login-div {
+  font-size: 12px;
+  width: 100%;
+  border-bottom: 1px solid #808080c2;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+}
+
+.login-div span {
+  color: #808080c2;
+   background:#FAF8F8;
+   padding:0 10px;
+}
