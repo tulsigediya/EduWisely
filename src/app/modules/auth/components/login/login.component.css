@@ -52,3 +52,6 @@ button, .btn:hover {
    background:#FAF8F8;
    padding:0 10px;
 }
+.cursor-pointer{
+  cursor: pointer;
+}
